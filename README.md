@@ -27,14 +27,14 @@
 - `/vstream <yt link>` - starts streaming live video
 - `/ping` - Bot Online or Offine
 
-<h4 align="center"> Admins VC Commands 👷‍♂️ </h4>
+<h4 align="center"> Admins VC Commands </h4>
 
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
 - `/end` - stop music play
 
-<h4 align="center"> Logo Making Commands 👷‍♂️ </h4>
+<h4 align="center"> Logo Making Commands </h4>
 
 - `/Logo <your Name >` - Create Your Logo
 
