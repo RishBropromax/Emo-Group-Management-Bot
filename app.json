@@ -52,12 +52,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "hirunaofficial"
+         "value": "@ImRishmika"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: SL Tech Zone. If this ever points to SL Tech Zone support than consider you made an enemy.",
          "required": true,
-         "value": "sltechzoneofficial"
+         "value": "Emo_deckstop_Bot"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
