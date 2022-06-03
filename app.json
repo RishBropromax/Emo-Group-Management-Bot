@@ -55,7 +55,7 @@
          "value": "@ImRishmika"
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: SL Tech Zone. If this ever points to SL Tech Zone support than consider you made an enemy.",
+         "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: SL Bot Zone. If this ever points to SL Tech Zone support than consider you made an enemy.",
          "required": true,
          "value": "Emo_deckstop_Bot"
       },
